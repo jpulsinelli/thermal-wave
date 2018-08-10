@@ -1,0 +1,3 @@
+objects = \
+  ThermalParametersModule.o \
+  ThermalDiscretizationModule.o
